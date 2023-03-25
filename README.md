@@ -1,6 +1,9 @@
 # Messaggio di Benvenuto e Uscita dalla GUILD
 
-Puoi usare il codice seguente per registrare la cartella events con le sottocartelle (da inserire nel vostro 'index.js').
+## Attenzione
+- Questo codice è solo una parte di quello completo, è diretto solo a chi già programma e crea Bot Discord.
+
+- Puoi usare il codice seguente per registrare la cartella events con le sottocartelle (da inserire nel vostro index.js).
 
 ```
 // Registrazione Cartella "events"
@@ -23,4 +26,4 @@ for (const folder of eventsFolder) {
 ```
 
 ## Contatti
-Creato da Discord: Micr0n#9153
+Creato da Micr0n, potete contattarmi su Discord: Micr0n#9153
